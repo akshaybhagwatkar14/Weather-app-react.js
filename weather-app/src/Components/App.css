@@ -1,0 +1,41 @@
+.wetherBg{
+    background: url("https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg?w=1060&t=st=1674454032~exp=1674454632~hmac=2e26c329d6761517af194896b0be85a28b0400b52c04c8ea0d33f41a5b7d829c");
+     height:50vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+.heading{
+    color: white;
+    font-weight:800;
+}
+.wetherResultBox{
+    background: url("https://nordicapis.com/wp-content/uploads/5-Best-Free-and-Paid-Weather-APIs-2019-e1587582023501.png");
+    margin: auto;
+    width:500px;
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wetherResultBox{
+    margin: auto;
+    width: 500px;
+    height: 300px;
+  }
+ 
+  .weathorCity{
+    font-size:43px;
+    font-weight: bold;
+    color: white;
+    padding-top:5px;
+  }
+  .weathorTemp{
+    font-size:50px;
+    font-weight:700;
+    padding-top:45px;
+  }
